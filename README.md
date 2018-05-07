@@ -1,6 +1,6 @@
 # GC_ULX_lightcurves
 
-#Repository for Chandra lightcurves of high count GC ULX observations. 
+Repository for Chandra lightcurves of high count GC ULX observations. 
 * CXOU 1229410+0757442 (NGC 4472 - "CXOU") [Maccarone et al 2011]
 * CXOU 1229345+08003209 (NGC 4472 - "C")
 * CXOU 1229423+08000808 (NGC 4472  - "D")
@@ -11,7 +11,7 @@
 
 
 
-#Lightcurves are binned by 1ks or 5ks (except the Maccarone et al 2011 one, which is 2 and 5ks). 
+Lightcurves are binned by 1ks or 5ks (except the Maccarone et al 2011 one, which is 2 and 5ks). 
 
 
-#lc_exam.ipynb is a python notebook that loads some lightcurves and plots them. 
+lc_exam.ipynb is a python notebook that loads some lightcurves and plots them. 
